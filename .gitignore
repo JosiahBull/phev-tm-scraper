@@ -1,0 +1,7 @@
+.venv
+logs/*
+!logs/.gitkeep
+listings/*
+!listings/.gitkeep
+listings.json
+output.csv
